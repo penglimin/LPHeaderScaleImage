@@ -1,14 +1,14 @@
 Pod::Spec.new do |s|
 
 
-  s.name         = "LPHeaderScalemage"
+  s.name         = "LPHeaderScaleImage"
   s.version      = "1.0.0"
-  s.summary      = "A short description of LPHeaderScalemage."
+  s.summary      = "A short description of LPHeaderScaleImage."
 
   s.description  = <<-DESC
                    DESC
 
-  s.homepage     = "http://github.com/penglimin/LPHeaderScalemage"
+  s.homepage     = "http://github.com/penglimin/LPHeaderScaleImage"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -33,7 +33,7 @@ Pod::Spec.new do |s|
   # s.tvos.deployment_target = "9.0"
 
 
-  s.source       = { :git => "http://github.com/penglimin/LPHeaderScalemage.git", :tag => s.version }
+  s.source       = { :git => "http://github.com/penglimin/LPHeaderScaleImage.git", :tag => s.version }
 
 
 
